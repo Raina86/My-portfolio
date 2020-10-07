@@ -194,6 +194,19 @@ text-align: center;
     text-align: center;
 }
 
+.skill-img{
+
+    width:90% ;
+    height:80%;
+    
+}
+
+.container{
+display:block;
+float: left;
+width: 30%;
+
+}
 .card-img-top{
     height: 200px ;
 
