@@ -184,33 +184,35 @@ about.btn:hover {
 }
 
 
-.skill-img{
-width:1100px ;
-height:550px ;
-text-align: center;
-}
 .skills-content{
 
     text-align: center;
 }
 
 .skill-img{
+    width:1100px ;
+    height:550px ;
+    text-align: center;
+    }
+.skill-img{
 
-    width:70% ;
-    height:50%;
-    
+    width:110% ;
+    height:40%;
+     
 }
-
 .container{
-display:block;
-float: left;
-width: 30%;
+    display:block;
+    float: center;
+    width: 30%;
+    
+    }
 
-}
 .card-img-top{
     height: 200px ;
 
 }
+
+
 
 #projects.btn {
     border: 2px solid transparent;
